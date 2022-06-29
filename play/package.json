@@ -1,0 +1,14 @@
+{
+  "name": "@dna-ui/play",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "wangyesheng",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.13"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -C play dev"
+  },
+  "keywords": [],
+  "author": "wangyesheng",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "vue": "^3.2.37"
+  },
+  "dependencies": {
+    "@dna-ui/components": "workspace:^1.0.0",
+    "@dna-ui/theme-chalk": "workspace:^1.0.0",
+    "@dna-ui/utils": "workspace:^1.0.0"
+  }
+}
